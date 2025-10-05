@@ -2,10 +2,13 @@
 
 The framework integrates machine learning (ML) and deep learning (DL) approaches to identify and classify glycometabolism-associated proteins based on sequence-derived descriptors. The codebase supports feature extraction, model development, and performance evaluation, enabling researchers to reproduce and extend the results presented in the manuscript.
 
+
 Authors:
+
 Hamza Shahab Awan¹
 Abid Sohail*1
-Corresponding Author: Fahad Alturise (Email:hamzashahabawan@gmail.com)
+
+Corresponding Author: Hamza Shahab Awan (Email:hamzashahabawan@gmail.com)
 
 Affiliations:
 Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan
