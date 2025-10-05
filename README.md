@@ -13,7 +13,7 @@ Corresponding Author: Hamza Shahab Awan (Email:hamzashahabawan@gmail.com)
 Affiliations:
 Department of Computer Science, COMSATS University Islamabad, Lahore Campus, Pakistan
 
-Repository Structure
+
 
 This repository consists of three main Python scripts:
 
