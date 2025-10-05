@@ -1,8 +1,8 @@
 “GlycoPred: A Supervised Learning Framework for Predicting Glycometabolic Proteins Using Proteomic Sequence Features.”
 
 The framework integrates machine learning (ML) and deep learning (DL) approaches to identify and classify glycometabolism-associated proteins based on sequence-derived descriptors. The codebase supports feature extraction, model development, and performance evaluation, enabling researchers to reproduce and extend the results presented in the manuscript.
-Authors
 
+Authors:
 Hamza Shahab Awan¹
 Abid Sohail*1
 Corresponding Author: Fahad Alturise (Email:hamzashahabawan@gmail.com)
